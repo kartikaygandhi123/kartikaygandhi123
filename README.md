@@ -1,6 +1,6 @@
 - 👋 Hi, I'm Kartikay Gandhi
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Html,Css,Javascript,ReactJS,MongoDB
+- 🌱 I’m currently learning Html,Css,Javascript,ReactJS,Laravel/PHP,Mysql
 - 💞 I'm a learner and always look forward in learning new technologies
 - 📫 How to reach me -kartikaygandhi123@gmail.com
 
