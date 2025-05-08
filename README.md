@@ -1,6 +1,6 @@
 - 👋 Hi, I'm Kartikay Gandhi
 - 👀 I’m a Programmer/Data Analyst.
-- 🌱 I’m currently working in the o/O Director Elementary Education, Haryana
+- 🌱 I’m currently working in the O/o Director Elementary Education, Haryana
 - 💞 I'm a learner and always look forward in learning new technologies
 - 📫 How to reach me -kartikaygandhi123@gmail.com
 
